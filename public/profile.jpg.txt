@@ -1,0 +1,11 @@
+PLACEHOLDER - Replace this with your actual profile.jpg image
+
+To add your profile photo:
+1. Save the photo you attached in the chat
+2. Place it in d:\portfolio-1\public\
+3. Name it exactly: profile.jpg
+
+The photo should be:
+- Square (1:1 aspect ratio)
+- At least 500x500 pixels
+- JPG or PNG format

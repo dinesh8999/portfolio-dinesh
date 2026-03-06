@@ -1,0 +1,27 @@
+# 🎨 IMPORTANT: Add Your Profile Image!
+
+## Quick Steps:
+
+1. **Locate the photo I attached** - The image you provided in the chat
+2. **Save it to this location:**
+   ```
+   d:\portfolio-1\public\profile.jpg
+   ```
+3. **Make sure the filename is exactly:** `profile.jpg`
+
+## Image Requirements:
+- ✅ Format: JPG or PNG
+- ✅ Size: At least 500x500 pixels
+- ✅ Aspect Ratio: Square (1:1)
+- ✅ File size: Under 2MB recommended
+
+## Current Status:
+❌ Profile image not yet added
+⚠️ The Hero section will show a placeholder until you add your image
+
+## After Adding:
+Run `npm run dev` and visit http://localhost:3000 to see your photo!
+
+---
+
+**Your photo from the chat should be saved as `profile.jpg` in this folder (public)**
