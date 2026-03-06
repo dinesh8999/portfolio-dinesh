@@ -71,10 +71,10 @@ const Contact = () => {
           >
             <div>
               <h3 className="text-3xl font-bold mb-4">
-                Let's <span className="text-gradient">Connect</span>
+                Let&apos;s <span className="text-gradient">Connect</span>
               </h3>
               <p className="text-gray-400 leading-relaxed mb-8">
-                I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+                I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
               </p>
             </div>
 
@@ -200,7 +200,7 @@ const Contact = () => {
                   animate={{ opacity: 1, y: 0 }}
                   className="p-4 bg-green-500/10 border border-green-500/30 rounded-lg text-green-400 text-center"
                 >
-                  Message sent successfully! I'll get back to you soon.
+                  Message sent successfully! I&apos;ll get back to you soon.
                 </motion.div>
               )}
             </form>
