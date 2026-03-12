@@ -6612,3 +6612,6 @@ Import trace for requested module:
  ✓ Compiled in 27.6s (1500 modules)
  ✓ Compiled in 9.4s (1500 modules)
  ✓ Compiled in 1999ms (1500 modules)
+ ✓ Compiled in 5.2s (1500 modules)
+ ✓ Compiled in 1863ms (1500 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'D:\portfolio-1\.next\cache\webpack\server-development\2.pack.gz_' -> 'D:\portfolio-1\.next\cache\webpack\server-development\2.pack.gz'
